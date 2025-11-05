@@ -25,7 +25,7 @@ A modern, interactive, and fully responsive **Calendar Web App** built with **Re
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the repository
-    git clone https://github.com/Masthan41/Calendar-app.git
+    git clone https://github.com/Masthan41/Calender-application.git
     cd Calendar-app
 
 ### 2. Install dependencies
